@@ -1,0 +1,32 @@
+<offer internal-id="835">
+    <type>аренда</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>http://neryhomist.org.ua/viewprofile.php?id=835</url>
+    <creation-date>2014-09-16T04:20:13+04:00</creation-date>
+    <image>http://neryhomist.org.ua/uploades/photo/291_75b07b24.jpg</image>
+    <image>http://neryhomist.org.ua/uploades/photo/291_a6d8424d.jpg</image>
+    <image>http://neryhomist.org.ua/uploades/photo/291_395f1900.jpg</image>
+    <image>http://neryhomist.org.ua/uploades/photo/291_c1a8a82c.jpg</image>
+    <image>http://neryhomist.org.ua/uploades/photo/291_6512b013.jpg</image>
+    <price>
+        <value>4000</value>
+        <currency>UAH</currency>
+        <period>месяц</period>
+    </price>
+    <rooms>3</rooms>
+    <location>
+        <country>Украина</country>
+        <region>Ровенская обл.</region>
+        <locality-name>Ровно</locality-name>
+        <address>проспект Мира</address>
+    </location>
+    <sales-agent>
+        <name>Аліна Нижня</name>
+        <phone>0677978726</phone>
+        <email>alinan.id@gmail.com</email>
+    </sales-agent>
+    <description>Сдается квартира (3 комн.) , 4000грн.
+    Тип Дома: кирпич,
+    Оренда: холодильник, телевизор, стиральная машина, микроволновая печь, меблировано, колонка / бойлер, евро ремонт, горячая вода.</description>
+</offer>

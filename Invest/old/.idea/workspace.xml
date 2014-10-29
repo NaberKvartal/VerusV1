@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0089cba-ae5f-4ec3-a6db-0382148cb694" name="Default" comment="" />
+    <ignored path="Invest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Invest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/people/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="14" selection-start="4349" selection-end="4349" vertical-scroll-proportion="0.0" vertical-offset="881" max-vertical-offset="2380">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people_id.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/include/people_id.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.0" vertical-offset="236" max-vertical-offset="748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people_main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/include/people_main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="37" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/projects/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="14" selection-start="4346" selection-end="4346" vertical-scroll-proportion="0.0" vertical-offset="1834" max-vertical-offset="2380">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/backend/projects.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/str/backend/people.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="17" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1377">
+              <folding>
+                <marker date="1410798754883" expanded="true" signature="327:348" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/people.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="27" selection-start="0" selection-end="1780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1122">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_id.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/include/project_id.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="35" selection-start="4716" selection-end="4716" vertical-scroll-proportion="0.0" vertical-offset="1955" max-vertical-offset="2261">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people_js.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/include/people_js.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="30" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects_js.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/str/include/projects_js.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="25" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/index.php" />
+        <option value="$PROJECT_DIR$/test/create.php" />
+        <option value="$PROJECT_DIR$/test/delete.php" />
+        <option value="$PROJECT_DIR$/test/update.php" />
+        <option value="$PROJECT_DIR$/test/get.php" />
+        <option value="$PROJECT_DIR$/include/dbconnect.php" />
+        <option value="$PROJECT_DIR$/projects.php" />
+        <option value="$PROJECT_DIR$/project/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/include/header.php" />
+        <option value="$PROJECT_DIR$/include/people.php" />
+        <option value="$PROJECT_DIR$/backend/additional_of_project.php" />
+        <option value="$PROJECT_DIR$/backend/people.php" />
+        <option value="$PROJECT_DIR$/include/jslib.php" />
+        <option value="$PROJECT_DIR$/include/dbconnect_pr.php" />
+        <option value="$PROJECT_DIR$/include/projects.php" />
+        <option value="$PROJECT_DIR$/include/jslib_pr.php" />
+        <option value="$PROJECT_DIR$/backend/project.php" />
+        <option value="$PROJECT_DIR$/people.php" />
+        <option value="$PROJECT_DIR$/test/db.php" />
+        <option value="$PROJECT_DIR$/str/include/header.php" />
+        <option value="$PROJECT_DIR$/str/include/jslib_pr.php" />
+        <option value="$PROJECT_DIR$/str/include/jslib.php" />
+        <option value="$PROJECT_DIR$/str/include/people_all.php" />
+        <option value="$PROJECT_DIR$/project.php" />
+        <option value="$PROJECT_DIR$/str/include/project_id.php" />
+        <option value="$PROJECT_DIR$/str/include/project_main.php" />
+        <option value="$PROJECT_DIR$/str/include/people_main.php" />
+        <option value="$PROJECT_DIR$/str/include/people_id.php" />
+        <option value="$PROJECT_DIR$/str/include/people_js.php" />
+        <option value="$PROJECT_DIR$/str/include/projects_js.php" />
+        <option value="$PROJECT_DIR$/str/people/index.php" />
+        <option value="$PROJECT_DIR$/str/projects/index.php" />
+        <option value="$PROJECT_DIR$/str/backend/people.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="str" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="str" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="people" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="str" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="str" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="str" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0089cba-ae5f-4ec3-a6db-0382148cb694" name="Default" comment="" />
+      <created>1410169810081</created>
+      <updated>1410169810081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23499268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277311" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/str/include/people_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="37" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/projects/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="14" selection-start="4346" selection-end="4346" vertical-scroll-proportion="0.0" vertical-offset="1834" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/backend/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/backend/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="17" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1377">
+          <folding>
+            <marker date="1410798754883" expanded="true" signature="327:348" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="0" selection-end="1780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/project_id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="35" selection-start="4716" selection-end="4716" vertical-scroll-proportion="0.0" vertical-offset="1955" max-vertical-offset="2261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/people_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/projects_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jslib_pr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="14" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="1870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="37" selection-start="5193" selection-end="5193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="27" selection-start="3720" selection-end="3720" vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="98" selection-start="5310" selection-end="5310" vertical-scroll-proportion="0.0" vertical-offset="1716" max-vertical-offset="4369" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/additional_of_project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="121" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/dbconnect_pr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="0" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jslib_pr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="7" selection-start="3571" selection-end="3587" vertical-scroll-proportion="0.0" vertical-offset="1519" max-vertical-offset="1989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="47" selection-start="123" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="46" selection-start="2552" selection-end="2552" vertical-scroll-proportion="0.0" vertical-offset="788" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="49" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jslib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="0" selection-start="2533" selection-end="2533" vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="240" column="42" selection-start="10247" selection-end="10247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4284" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="372" column="9" selection-start="13484" selection-end="13484" vertical-scroll-proportion="0.0" vertical-offset="6134" max-vertical-offset="15283">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="18" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="13838" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="372" column="9" selection-start="13484" selection-end="13484" vertical-scroll-proportion="0.0" vertical-offset="6134" max-vertical-offset="15283">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="18" selection-start="1589" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="1012" max-vertical-offset="13838" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="0" selection-end="606" vertical-scroll-proportion="0.2527881" vertical-offset="0" max-vertical-offset="538" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/additional_of_project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="201" selection-end="201" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jslib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="40" selection-start="910" selection-end="910" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/dbconnect_pr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="149" selection-end="149" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="9" selection-start="2273" selection-end="2273" vertical-scroll-proportion="-0.020703934" vertical-offset="894" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="35" selection-start="391" selection-end="391" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="935" selection-end="1607" vertical-scroll-proportion="0.8717949" vertical-offset="153" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="27" selection-end="189" vertical-scroll-proportion="0.21288015" vertical-offset="0" max-vertical-offset="559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2" selection-end="3215" vertical-scroll-proportion="-5.9615383" vertical-offset="899" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="857" selection-end="1872" vertical-scroll-proportion="-19.692308" vertical-offset="457" max-vertical-offset="4913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="0" selection-start="1918" selection-end="6487" vertical-scroll-proportion="-8.423077" vertical-offset="2943" max-vertical-offset="5440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="0" selection-start="2" selection-end="4703" vertical-scroll-proportion="-16.26923" vertical-offset="835" max-vertical-offset="1785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/project_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="2040" selection-end="2040" vertical-scroll-proportion="-5.0" vertical-offset="210" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/people_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="37" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/people_id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.0" vertical-offset="236" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/people_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jslib_pr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="408" selection-end="516" vertical-scroll-proportion="-4.576923" vertical-offset="102" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/project_id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="35" selection-start="4716" selection-end="4716" vertical-scroll-proportion="0.0" vertical-offset="1955" max-vertical-offset="2261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/include/projects_js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/people/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="14" selection-start="4349" selection-end="4349" vertical-scroll-proportion="0.0" vertical-offset="881" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/projects/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="14" selection-start="4346" selection-end="4346" vertical-scroll-proportion="0.0" vertical-offset="1834" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="0" selection-end="1780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/backend/projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/str/backend/people.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="17" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1377">
+          <folding>
+            <marker date="1410798754883" expanded="true" signature="327:348" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

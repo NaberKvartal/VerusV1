@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="/js/jquery.min.js"></script>
+
+    <title></title>
+</head>
+<body>
+<form>
+    <input id="company" type="text">
+    <input id="name" type="text">
+    <input id="email" type="email">
+    <button type="submit" id="submitButton" disabled="disabled">Send</button>
+</form>
+<script>
+
+
+    var checkCompany=false, checkName=false, checkMail=false;//Робимо змінні по перевірці
+
+    function validCompany() {//перевірка поля для вводу назви компанії
+        var text = $('#company').val();
+        checkCompany = false;
+        if(text == 'Company name' || text.length == 0) return false;
+        //якщо щось не так - функція просто припиняє роботу
+        checkCompany = true;
+        //якщо все добре - призначає значення true
+    }
+    function validName() {
+        var text = $('#name').val();
+        checkName = false;
+        if(text == 'Your name' || text.length == 0) return false;
+        checkName = true;
+    }
+    function validMail() {
+        var element = '#email';
+        checkMail = false;
+        var text = $(element).val();
+
+        var indexDot = text.indexOf('.');
+        var indexDog = text.indexOf('@');
+        if(indexDog==-1 || indexDot==-1) return false;
+
+        if(text.substr(0, indexDog).length < 2) return false;
+        if(text.substr(indexDog, indexDot).length < 2) return false;
+        if(text.substr(indexDot).length < 3) return false;
+
+        checkMail = true;
+    }
+
+    function doButton() {
+        //перевіряє чи все добре і тоді визначає, що робити далі
+        if(checkCompany && checkMail && checkName){
+            $('#submitButton').removeAttr("disabled", "disabled");
+        } else {
+            $('#submitButton').attr("disabled", "disabled");
+        }
+    }
+    $('#company').keyup(function() {
+        validCompany();
+        doButton();
+    });
+    $('#name').keyup(function(){
+        validName();
+        doButton();
+    });
+    $('#email').keyup(function() {
+        validMail();
+        doButton();
+    });
+</script>
+</body>
+</html>
